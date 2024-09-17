@@ -1,4 +1,4 @@
-Day 3: [Date]
+Day 3:
 Today's Progress:
 I practiced control flow in Python by working on several Roller Coaster scenarios with different ticket pricing based on height and age. I also created a simple pizza ordering system, which calculates the total bill based on the pizza size and optional add-ons like pepperoni and cheese.
 
